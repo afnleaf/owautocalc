@@ -1,0 +1,2 @@
+# owautocalc
+Perform overwatch math
