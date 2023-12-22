@@ -15,13 +15,94 @@ ex: https://overwatch.fandom.com/wiki/Genji?so=search
 - melee
 - ult
 
-## Hero Data
+## Hero Data (39)
 
-### DPS
+### Damage (17)
 
-### Tank
+Ashe
 
-### Support
+Bastion
+
+Cassidy
+
+Echo
+
+Genji
+
+Hanzo
+
+Junkrat
+
+Mei
+
+Pharah
+
+Reaper
+
+Sojourn
+
+Soldier: 76
+
+Sombra
+
+Symmetra
+
+Torbjörn
+
+Tracer
+
+Widowmaker
+
+
+### Tank (12)
+
+D.Va
+
+Doomfist
+
+Junker Queen
+
+Mauga
+
+Orisa
+
+Ramattra
+
+Reinhardt
+
+Roadhog
+
+Sigma
+
+Winston
+
+Wrecking Ball
+
+Zarya
+
+
+### Support (10)
+
+Ana
+
+Baptiste
+
+Brigitte
+
+Illari
+
+Kiriko
+
+Lifeweaver
+
+Lúcio
+
+Mercy
+
+Moira
+
+Zenyatta
+
 
 
 
