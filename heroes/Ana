@@ -1,0 +1,168 @@
+Abilities
+
+Biotic Rifle
+Key mouse 1
+Ability-ana1
+Type
+    Weapon
+Effect Type
+    Projectile Projectile (unscoped)
+    Hitscan Hitscan (scoped)
+    Blocked by barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Affected by Amplification Matrix.
+Key mouse 1 Long-range rifle that heals allies and damages enemies.
+Key mouse 2 Hold to zoom in.
+Damage: 
+    70 over 0.59 seconds
+Headshot: 
+    ✕
+Healing:
+    70 over 0.59 seconds
+Rate of fire:
+    0.8 seconds recovery
+Ammo:
+    15
+Reload time:
+    1.5 seconds animation
+Cast time:
+    0.24 seconds for scope in
+    0.16 seconds for scope out
+Duration:
+    0.59 seconds effect
+Area of effect:
+    0.1 meters (projectile size, enemies, hip fire)
+    0.3 meters (projectile size, allies, scoped)
+    Spread angle:Pinpoint
+    Move. speed:-65% penalty (scoped)
+Projectile speed:
+    125 meters per second (unscoped)
+    Ana’s rifle shoots darts that can restore health to her allies or deal ongoing damage to her enemies. She can use the rifle’s scope to zoom in on targets and make highly accurate shots.
+
+Details
+    Damage per second: ~93.75 while firing (83.33 overall w/ reload)
+    Healing per second: ~93.75 while firing (83.33 overall w/ reload)
+    Shots pass through full health allies and do not affect them.
+    Scoped shots leave a tracer behind.
+    Applies a damage/heal-over-time effect that can be cleansed. Health Packs cleanse the damage-over-time.
+    Projectile size is treated as 0.3 meters for allies, making it easier to heal. It is smaller for enemies.
+    Using melee or zooming in/out stops fire recovery.
+    After the shot, the game raises the Ana camera (changes the facing angle) by 2 units, after which it starts lowering the character's camera to its previous value (a little bit changes it). Unlike Cassidy, Ana will not be able to shoot once the camera is back in position and will have to wait.
+
+
+Sleep Dart 
+LSHIFT
+Ability-ana2
+Cooldown: 
+    14 seconds
+Type
+    Ability
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+Affected by damage boosts.
+Affected by Amplification Matrix.
+Ana fires a dart from her sidearm, rendering an enemy unconscious (though any damage will rouse them).
+Damage:
+    5
+Headshot:
+    ✕
+Cast time:
+    0.3 seconds + 0.67 s. recovery
+Duration:
+    1.5 - 5 seconds (3.5 seconds in tanks)
+Area of effect:
+    0.2 meters radius
+Spread angle:
+    Pinpoint
+Projectile speed:
+    60 meters per second
+Details
+    If a sleeping target takes damage, the target will wake up prematurely in 0.5 seconds.
+    During casting time, you can change the future flight path.
+    If the ability is interrupted before casting ends, the ability's cooldown will not trigger.
+
+
+Biotic Grenade 
+E
+Ability-ana3
+Cooldown: 
+    12 seconds
+Type
+    Ability
+Effect Type
+    Arcing projectile
+    Area of effect
+    Blocked by barriers.
+    !Partially blocked by Defense Matrix/Kinetic Grasp.
+    !Partially blocked by Deflect/Javelin Spin.
+    Affected by damage boosts.
+    !Partially affected by Amplification Matrix.
+    Throws a grenade that heals and increases healing on allies, while damaging and preventing healing on enemies.
+Damage:
+    60
+Headshot:
+    ✕
+Healing:
+    60
+Duration:
+    3.5 seconds
+    0.69 seconds recovery
+Area of effect:
+    4 meters
+Projectile speed:
+    30 meters per second
+    Ana tosses a biotic bomb that deals damage to enemies and heals allies in a small area of effect. Affected allies briefly receive increased healing from all sources, while enemies caught in the blast cannot be healed for a few moments.
+Details
+    Passes through full HP allies.
+    Affected allies receive 50% additional healing, including from Health Packs, while affected enemies cannot be healed at all.
+    Stacks multiplicatively with other effects that amplify healing received.
+    The regeneration of shields is treated as a form of healing, meaning allies regenerate their shields 50% faster and enemies cannot regenerate their shields until the effect expires.
+    Has no effect on overhealth.
+    The projectile can be destroyed while in air by Ability-dva3 Defense Matrix, Abilities-sigma3 Kinetic Grasp and Ability JavelinSpin Javelin Spin, but the explosion is unaffected.
+    Biotic grenade can be reflected by Ability-genji2 Deflect.
+    Baptiste-ability4 Amplification Matrix affects all damage and healing dealt, if the projectile passes through it. Splash damage/healing alone going through is not amplified.
+
+
+Nano Boost 
+Q
+Ability-ana4
+Cost:
+    2100 points
+Type
+    Ultimate Ability
+Effect Type
+    Targeted Targeted (allies)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Increases an ally's damage, while reducing damage taken.
+Damage:
+    +50% damage buff
+Healing:
+    250 health
+Dmg. reduction:
+    50%
+Cast time:
+    0.128 seconds + 0.6 seconds recovery
+Duration:
+    8 seconds
+Max. range:
+    40 meters
+
+After Ana hits one of her allies with a combat boost, they deal more damage, take less damage from enemies’ attacks.
+
+Details
+    Damage reduction is capped at 50%. If Bastion (who takes 20% less damage while transformed) gets Nano Boosted, the damage reduction is still 50%.
+    In FFA Deathmatch, Ana can use Nano Boost on herself.

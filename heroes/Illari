@@ -1,0 +1,240 @@
+Abilities
+
+Solar Rifle
+Key mouse 1
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Hitscan
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Long-range auto charging rifle.
+Damage:
+    75 - 22.5 (max charge)
+    25 - 7.5 (min charge)
+Falloff range:
+    30 - 50 meters
+Headshot:
+    ✓ (1.5x)
+Rate of fire:
+    1 shot/s (max charge)[Verify]
+    1.7 shots/s (min charge)
+Ammo:
+    14
+Reload time:
+    1.8 seconds
+Area of effect:
+    0.05 meters (projectile radius)
+Spread angle:
+    Pinpoint
+Details
+    Damage per second: 75 (max charge), 42.5 (min charge)
+    Charging is paused while using secondary fire and melee.
+    Charge rate is affected by Kitsune Rush Icon Kitsune Rush.
+
+
+Solar Rifle
+Alt Fire
+Key mouse 2
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Beam Beam
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Medium range healing beam that consumes solar energy.
+Headshot:
+    ✕
+Healing:
+    105 per second
+Reload time:
+    2.9 seconds (recharge to full)
+    3.36 seconds (cooldown when fully depleted)
+Spread angle:
+    Pinpoint
+
+Details
+    Can be fired continuously for 3 seconds before running out of energy.
+    If completely ran out of energy, secondary fire cannot be used again until the energy is fully recharged.
+    Using primary fire or reloading do not interrupt recharging energy.
+    Healing tickrate is affected by Kitsune Rush Icon Kitsune Rush rush, but the resource consumption remains the same.
+
+
+Outburst
+LSHIFT
+Cooldown:
+    7 seconds
+Type
+    Ability
+Effect Type
+    Area of effect Area of effect
+    Movement Movement
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Launches you in the direction you are moving. Knocking back enemies. Hold jump to go higher.
+Damage:
+    10
+Cast time:
+    0.2 + 0.9 seconds
+Area of effect:
+    8.5 meters
+Move. speed:
+    18.4 m/s (horizontal input, no charge)
+    16.7m/s (horizontal input, charged)
+    6 m/s (no input, no charge)
+    13.5 (no input, charged)
+    18.5 m/s (knockback)
+
+Details
+
+Cannot be used while pulled by Life Grip Icon Life Grip.
+
+
+Healing Pylon
+E
+Cooldown
+    8 seconds (default)
+    15 seconds (under attack)
+Type
+    Ability
+Effect Type
+    Arcing projectile Arcing projectile (deploy)
+    Projectile Projectile (heal)
+    Blocked by barriers.
+    Ignores barriers.
+    !Partially blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    !Partially blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Deploy a pylon that heals allies.
+Healing:
+    30 over 0.45 seconds
+Rate of fire:
+    1.25 shots/s
+Health:
+    50 health
+    50 shields
+Cast time:
+    0.08 + 0.8 seconds
+Duration:
+    Until destroyed
+Details
+    Heal per second: 
+        37.5
+    Healing prioritizes the hero with the lowest health percentage within the pylon's range.
+    Cooldown starts immediately upon activation.
+    If a new Pylon is deployed while one is still active, the old one will be destroyed.
+    A deployed Pylon can be destroyed using the Interact key at any time. If it hasn't taken damage within the last 3 seconds, this has no effect on its cooldown.
+    If the pylon is damaged by the enemy, a new pylon cannot be deployed for 3 seconds. If the pylon is destroyed during this time, either by the enemy or manually by the player, Healing Pylon goes on a longer cooldown, starting from the moment it was destroyed.
+    Pylon can attach itself to terrain and terrain-like objects, like Ability-mei3 Ice Wall.
+    Bounces off of barriers and other objects.
+    Pylon can attach to payload, but not to the TS-1 robot or the barricade in Push.
+    Pylon is destroyed if it is in the way of a moving payload or barricade (but not the robot).
+    Healing Pylon can be placed on Petal Platform Icon Petal Platform and lifted by it regardless of which was placed first.
+    Pylon is destroyed if a Tree of Life Icon Tree of Life is deployed on top of it.
+    Deploying an Ability-mei3 Ice Wall or using Ability-mei2 Cryo-Freeze on the pylon covers it, blocking line of sight and preventing it from healing.
+    If the pylon touches Ability-mei3 Ice Wall or stays within Ability-mei4 Blizzard, it will "freeze" and stop healing until those abilities end.
+    If the object it was attached to expires or is destroyed the pylon falls on ground.
+    The pylon has collision with heroes and blocks shots, but does not block line of sight for AoE.
+    Ability-ashe4 B.O.B. will destroy the pylon if he collides with it. This will stop the charge.
+    Stunning movement abilities, like Ability-reinhardt3 Charge or Shield Bash Shield Bash (during Rally Rally), can "stun" the pylon, briefly stopping its healing.
+    Healing Pylon is unaffected by knockback.
+    Pylon cannot be targeted by Icon-ability.tacticalvisor Tactical Visor, Ability-mccree4 Deadeye or Ability Moira Biotic Orb Biotic Orb.
+    Pylon can be targeted by Ability-torbjorn3 Deploy Turret, Ability-symmetra2 Sentry Turret and Ability-ashe4 B.O.B..
+    A deployed pylon can be teleported using Symmetra's Ability-symmetra4 Teleporter.
+    Sombra can Ability Sombra Hack Hack the pylon, disabling it for 10 seconds.
+    The pylon projectile before deployment cannot be blocked by Abilities-sigma3 Kinetic Grasp, Ability-dva3 Defense Matrix and Ability JavelinSpin Javelin Spin or reflected by Ability-genji2 Deflect, however the healing projectiles shot by it can.
+
+
+Captive Sun
+Q
+Cost:
+    2420 points
+Type
+    Ultimate Ability
+Effect Type
+    Projectile Projectile
+    Movement Movement
+    Blocked by barriers.
+    Ignores barriers.
+    !Partially blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    !Partially blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    !Partially affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Fire an explosive ball of solar energy. Enemies hit are slowed and explode after taking significant damage.
+Damage:
+    5 {direct hit)
+    50 (splash)
+    120 (Sunstruck explosion)
+Headshot:
+    ✕
+Ammo:
+    1
+Cast time:
+    0 + 1.2 seconds (launch)
+    0.02 + 0.6 seconds (solar energy ball)
+Duration:
+    5.2 seconds (flight)
+    6 seconds (Sunstruck debuff)
+    0.8 seconds (explosion delay)
+Area of effect:
+    8 meters radius (splash)
+    0.75 meters radius (projectile)
+    Move. speed:12 m/s (launch)
+    7.98 m/s (flight)
+    -40% slow
+Projectile speed:
+    32.5 m/s
+
+Details
+    Captive Sun is a channeled ability; it is interrupted by becoming stunned, knocked down or hacked, including subsidiary effects, consuming the ultimate charge.
+    Launches Illari into the air granting her free flight for the duration and her next shot is replaced by solar energy ball.
+    Rooted and hindered make Illari temporarily unable to fly, but do not prevent the activation or immediately end the ability.
+    After the launch, the player has 4 seconds to fire the solar energy ball.
+    The ball is automatically fired at the end of the timer.
+    Projectile passes through enemies (but not shields) and explodes only upon contact with a shield, terrain or terrain-like object, like Ability-mei3 Ice Wall, or if it has travelled for 10 seconds.
+    Any enemy heroes, including Ability-ashe4 B.O.B., damaged by the direct hit or splash of the solar energy ball are marked and slowed for 6 seconds.
+    Slow slowly decays over the duration.
+    If a marked enemy receives total of 90 damage after reductions or is killed, they will become "SUNSTRUCK", causing the mark to explode after 0.8 seconds dealing damage in an area.
+    Damage from the direct hit and splash from Captive Sun does not count toward this, but the damage from Sunstruck explosion does.
+    Only one mark can be active at a time. For example, if an allied Echo duplicates Illari and hits the same target with Captive Sun.
+    If the target is hit before Sunstruck is triggered, the duration of the mark is refreshed.
+    If the target is hit during Sunstruck explosion delay, a new mark will not be applied.
+    The mark can be removed by Zarya's Ability-zarya2 Particle/Projected Barrier, Zenyatta's Ability-zenyatta4 Transcendence, D.Va's Ability-dva6 Call Mech or by becoming phased out, such as through Ability-reaper2 Wraith Form or Protection Suzu Icon Protection Suzu.
+    However, if the target has already been Sunstruck, the explosion will happen regardless. Damage may still be prevented.
+    Kiriko and Sombra can teleport, protecting themselves from the explosion. However, they carry the explosion with them, harming anyone around their destination. If a sunstruck ally happens to be there, they could explode.
+    Mark explosion damage is mitigated by Block Icon Block and Power Block Power Block regardless of facing direction.
+    The projectile can be destroyed while in air by Ability-dva3 Defense Matrix, Abilities-sigma3 Kinetic Grasp and Ability JavelinSpin Javelin Spin and reflected by Ability-genji2 Deflect, but the splash and Sunstruck explosion are unaffected.
+    Direct damage and splash damage from Captive Sun are affected by Baptiste-ability4 Amplification Matrix, as long as the projectile passes through it. However, the Sunstruck explosion damage is not.

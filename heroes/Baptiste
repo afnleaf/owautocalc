@@ -1,0 +1,238 @@
+Abilities
+
+Exo BootsL CONTROL
+Baptiste-ability5
+Type
+    Passive Ability
+Effect Type
+    Movement
+    Hold crouch to jump higher.
+Max. range:
+    9.1 meters (full charge)
+Move. speed:
+    17.44 meters per second (full charge)
+
+By first crouching, Baptiste can jump higher.
+
+Details
+    Takes 0.7 seconds for the boots to fully charge, which is a bug.
+    Baptiste must be standing on walkable surface to charge Exo-Boots.
+    Charging stops if crouch is released or Baptiste becomes airborne, and the boots will remain charged for 1 second. The charge will reset if Baptiste starts charging the boots again during this time.
+
+
+Biotic Launcher Key mouse 1
+Baptiste-ability1
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Hitscan
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Three-round burst gun.
+Damage:
+    25 – 7.2 (per round)
+    75 – 21.6 (per shot)
+Falloff range:
+    25 – 45 meters
+Headshot:
+    ✓
+Rate of fire:
+    1.7 shots/s
+Bullets per shot:
+    3
+Ammo per shot:
+    3
+Ammo:
+    36
+Reload time:
+    1.5 seconds animation
+
+Baptiste’s three-round-burst Biotic Launcher rewards accuracy and recoil control with significant damage output.
+
+Details
+    Damage per second: ~127.5 while firing (109 overall w/reload)
+    Baptiste's crosshair moves up as he fires, then comes back down after firing.
+    Reloading Biotic Launcher replenishes the ammo for both the primary and alternate fire.
+    Baptiste can alternate between the two modes of fire.
+    There is a 0.144 seconds recovery to use secondary fire after firing the third bullet.
+
+
+Biotic Launcher 
+Alt Fire Key mouse 2
+Baptiste-alt-fire
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Arcing projectile
+    Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    !Partially blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    !Partially blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    !Partially affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Lob a healing projectile that heals all allies near the impact.
+Healing:
+    20 (direct hit)
+    50 (splash, ally)
+Rate of fire:
+    1.11 shots/s
+Ammo:
+    13
+Reload time:
+    1.5 seconds animation
+Area of effect:
+    3 meter radius
+Projectile speed:
+    60 meters per second
+
+Biotic Launcher also doubles as a healing device, lobbing projectiles that heal allies near the point of impact.
+
+Details
+    Healing per second: 55.55 - 77.77 (indirect - direct) while firing (49.42-68.93 overall w/reload)
+    Cannot heal self.
+    Projectile passes through full-health allies.
+    Reloading Biotic Launcher replenishes the ammo for both the primary and alternate fire.
+    Baptiste can alternate between the two modes of fire.
+    There is a 0.144 seconds recovery to use primary fire after firing.
+    The projectile can be destroyed while in air by Ability-dva3 Defense Matrix, Abilities-sigma3 Kinetic Grasp and Ability JavelinSpin Javelin Spin and reflected by Ability-genji2 Deflect, but the explosion is unaffected.
+    Baptiste-ability4 Amplification Matrix affects all healing dealt, if the projectile passes through it. Splash healing alone going through is not amplified.
+
+
+Regenerative Burst
+LSHIFT
+Baptiste-ability2
+Cooldown:
+    15 seconds
+Type
+    Ability
+Effect Type
+    Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+
+Activate to heal yourself and nearby allies instantly, with additional healing over time. Instant heal is doubled for targets less than half health.
+
+Healing:
+    40 (instant, >50% max HP)
+    80 (instant, <50% max HP)
+    40 over 4 seconds (HoT)
+Cast time:
+    ~0.160 seconds animation + 0.160 s. before heal
+Duration:
+    5 seconds
+Area of effect:
+    10 meter radius
+
+Baptiste activates an intense regenerative burst that heals himself and nearby allies over time.
+
+Details
+    Healing per second = 10
+    The heal-over-time effect is applied once upon activation. Allies can get out of range and continue to get healed.
+    Although the ability has a casting animation, the healing over time is applied instantly, but begins healing after a delay, which means it cannot be interrupted by stuns, hacks or death.
+
+
+Immortality Field E
+Baptiste-ability3
+Cooldown:
+    25 seconds
+Type
+    Ability
+Effect Type
+    Arcing projectile Arcing projectile
+    Area of effect Area of effect (field)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Toss a device that prevents allies from dying. The device can be destroyed.
+Healing:
+    Any deficit from 25% HP
+Health:
+    125
+Cast time:
+    0.8 second cast animation
+Duration:
+    5 seconds (generator)
+    5.5 seconds (field)
+Area of effect:
+    6.5 meter radius
+Projectile speed:
+    60 m/s
+
+Baptiste uses a device to create a field that prevents allies from dying. The generator can be destroyed.
+
+Details
+    Prevents the HP of Baptiste and his allies from going below 25%. It even prevents environmental death, but healing the HP lost this way will not give ultimate charge.
+    Heroes with HP below 25% will instantly be healed to 25% when entering the field. Ability-ana3 Biotic Grenade can amplify or block this; if the healing is blocked, Immortality Field will still prevent all incoming damage.
+    The device can be thrown and bounced off walls. The arc is identical to that of Biotic Launcher's alternate fire, except Immortality Field collides with the skybox.
+    Both the thrown device and the field ignore barriers but can be blocked by terrain and terrain-like objects.
+    Sombra can Ability Sombra Hack Hack the device instantly destroying Immortality Field.
+    Placing a Tree of Life Icon Tree of Life on the device destroys it.
+    The device can be placed on and lifted by Petal Platform Icon Petal Platform if the latter was deployed first.
+    When the device expires, the field will linger for 0.5 seconds. If the generator is destroyed, the field will still linger, but not as long.
+    Although the ability has a casting animation, the device is spawned the moment the button is pressed, and therefore cannot be cancelled mid-cast by a stun or hack.
+
+
+Amplification Matrix Q
+Baptiste-ability4
+Cost:
+    2310 points
+Type
+    Ultimate Ability
+    Project a matrix that doubles the damage and healing of allied projectiles.
+Damage:
+    +100% damage amplified
+Healing:
+    +100% healing amplified
+Cast time:
+    instantly + recovery 0.24 s. for shoot
+Duration:
+    10 seconds
+Max. range:
+    35 meters
+Area of effect:
+    9x5 meter rectangle, with 1 meter beneath the ground
+
+Baptiste creates a matrix that doubles the damage and healing effects of friendly projectiles that pass through it.
+
+Details
+    Damage per second: 
+        ~258.2 while firing (self)
+    Healing per second: 
+        111.1 - 155.51 (indirect - direct) while firing (self)
+    Before being deployed, the orientation can be changed by pressing the ultimate key again.
+    Amplifies hitscan and projectile attacks alike, coming from any direction.
+    This includes abilities that travel as a projectile but deal damage/healing in an AoE or as a DoT/HoT, such as Ability-mei4 Blizzard, Ability-ashe2 Dynamite and Ability Moira Biotic Orb Biotic Orb (note that it does not change the total damage/healing for Biotic Orb, just the rate of damage/healing), as long as (and only if) the projectile passes through.
+    Cannot amplify the damage of melee-based projectiles such as Ability-Roadhog3 Chain Hook or Whip Shot Whip Shot.
+    Amplification Matrix does not actually double damage/healing. When combined with other amplification abilities, they are added together. For example, Amplification Matrix (+100%) and Mercy's Damage Boost (+25%) will result in +125% damage (225% damage overall).
+    Can be placed on payload or Petal Platform Icon Petal Platform.
+
+    Ability is stationed wherever it's placed. So, if placed on top of a temporary or moving surface, like the Payload, it will remain in midair, even after the surface expires or moves.
+    Can be destroyed by Ability Sombra EMP EMP.

@@ -1,0 +1,224 @@
+Abilities
+
+Wall Ride
+Ability-passive
+Type
+    Passive Ability
+Effect Type
+    Movement Movement
+    Jump onto a wall to ride along it.
+Move. speed:
+    +30% buff +2.5 meters per second (wall leap)
+Cooldown:
+    0.5 seconds
+Details
+    If Wall Jump On release is enabled, then while on a wall, you can press crouch to fall off it without making a jump.
+    To start a Wall Ride, jump at a nearby wall and hold the Jump key. Lúcio will Wall Ride as long as it is held.
+    If the option "Allow Backwards Wall Ride" is enabled, Lúcio will be able to start a Wall Ride midair without needing to look at the wall or needing to move prior to Wall Riding.
+    Unlike most heroes, Lucio's speed does not decrease while flying with speed higher than 5.5 m/s.
+    However, his speed begins to decrease if his speed in the air is more than double his speed on the ground.
+    With healing aura, slow will occur at speeds above 11 m/s, with speed aura at speeds above 13.76 m/s, with speed aura + Amp It Up at speeds above 17.6 m/s.
+    When looking down while wall riding and holding forward to press jump, Lucio will jump up at a speed of 4.12 m/s. If you look up, then the speed will be 9.12 m/s. However, in this cases, there will be practically no wall leap horizontal speed buff.
+    If you look straight ahead during a wall ride and press jump, Lucio will jump up at a vertical speed of 6.54 m/s. By holding forward in advance, you can increase the vertical speed to 6.9 m/s without any penalty.
+
+
+Sonic Amplifier
+Key mouse 1
+Ability-Lucio1
+Type
+    Weapon
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Sonic projectile launcher.
+Damage:
+    20 (per round)
+    80 (per shot)
+Headshot:
+    ✓
+Rate of fire:
+    1.08 shots/s
+Bullets per shot:
+    4
+Ammo per shot:
+    4
+Ammo:
+    20
+Reload time:
+    1.5 seconds animation
+Area of effect:
+    0.15 meters projectile radius
+Spread angle:
+    Pinpoint
+Projectile speed:
+    50 meters per second
+    Lúcio can hit his enemies with sonic projectiles.
+Details
+    Damage per second: 
+        86 while firing (65 overall w/reload)
+    Projectile can deal damage no earlier than 0.032 second after being used.
+    Recovery stops while using melee.
+    If with less than 4 ammo, a button press will only fire as many rounds are remaining.
+
+
+Soundwave
+Key mouse 2
+Ability-Lucio5
+Cooldown
+    4 seconds
+Type
+    Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Create a short-range blast wave to knock enemies away from you.
+Damage:
+    25
+Headshot:
+    ✕
+Duration:
+    0.56 s. recovery for primary
+Max. range:
+    8 meters
+Move. speed:
+    15 meters per second (booped target)
+    Lúcio can knock his enemies back with a blast of sound.
+
+Details
+    Co-op
+    Can be used while reloading.
+
+
+Crossfade
+LSHIFT
+Ability-Lucio2
+Cooldown
+    0.38 seconds
+Type
+    Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Switches between two songs: Healing Boost heals nearby allies, and Speed Boost makes nearby allies move faster.
+Healing:
+    Allies: 
+        16 per second
+    Self: 
+        10 per second
+Cast time:
+    0.192 seconds
+Area of effect:
+    12 meter radius
+Move. speed:
+    +25% buff
+
+Lúcio continuously energizes himself — and nearby teammates — with music. He can switch between two songs: one amplifies movement speed, while the other regenerates health.
+
+Details
+    Co-op
+    Both songs require line of sight and does not affect allies behind enemy barriers.
+    If a teammate leaves the area, the current song effect lingers for 1 second, unless the song is switched.
+    The switch can be done while reloading.
+    The aura of speed affects the speed of movement on the surface and walls. Enabling/disabling it while flying does not affect speed unless your speed is greater than 11 m/s.
+    If "hold to crossfade" enabled visually the aura switches after 0.208 seconds. However, to truly switch the aura, you need to hold down the button for at least 0.38 seconds.
+
+
+Amp It Up
+E
+Ability-Lucio3
+Cooldown
+    12 seconds
+Type
+    Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Increase the effectiveness of your current song.
+Healing:
+    52 per second
+Cast time:
+    0.69 second recovery
+Duration:
+    3 seconds
+Area of effect:
+    12 meter radius
+Move. speed:
+    +60% buff
+    Lúcio increases the volume on his speakers, boosting the effects of his songs.
+
+Details
+    The cooldown starts after the ability duration ends.
+    There is a bug where if you are hacked by Sombra during the ability's activation, it will not go on cooldown until after the cast time ends
+    Crossfade has no self-healing penalty while Amp It Up is active.
+
+
+Sound Barrier
+Q
+Ability-Lucio4
+Cost
+    2420 points
+Type
+    Ultimate Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Protective waves radiate out from Lúcio’s Sonic Amplifier, briefly providing him and nearby allies with overhealth.
+Health:
+    750 overhealth
+Cast time:
+    0.7 + 0.8 seconds
+Duration:
+    6 seconds
+Area of effect:
+    30 meter radius
+
+Details
+    If Lúcio is or becomes airborne while casting Sound Barrier, the cast will not finish until he lands on a walkable surface, unless he is suspended in air by Ability-zarya4 Graviton Surge or Abilities-sigma5 Gravitic Flux, in which case the cast will go through mid-air.
+    Lúcio does a small leap upon activation. This increases the cast time by ~0.06 seconds if Lúcio, under normal conditions, lands on the same level of elevation.
+    When the cast finishes, there is approximately a 0.83 second period where allies can still receive the overhealth if they enter Sound Barrier's radius.
+    Overhealth immediately starts decaying at a rate of 125 overhealth per second (12 overhealth every 0.096 seconds).

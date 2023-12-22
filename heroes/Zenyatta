@@ -1,0 +1,217 @@
+Abilities
+
+Snap Kick
+Ability-passive
+Type
+    Passive
+Effect Type
+    Melee Melee
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Quick melee damage increased by 50%, and its knockback is significantly increased.
+Damage:
+    45
+Zenyatta's melee deals more damage and high knockback
+
+
+Orb of Destruction
+Key mouse 1
+Ability-zenyatta1
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Energy projectile weapon.
+Damage:
+    48
+Headshot:
+    ✓
+Rate of fire:
+    1 shot every 0.4 second
+Ammo:
+    25
+Reload time:
+    1.5 seconds animation
+Area of effect:
+    0.15 meter radius
+Spread angle:
+    Pinpoint
+Projectile speed:
+    90 meters per second
+Zenyatta projects his destructive energy orbs individually.
+Details
+    Damage per second: 
+        120 while firing (104.34 overall w/reload)
+    Damage per second: 
+        150 while firing (w/ discord) (130.43 overall w/reload)
+
+
+Orb of Destruction 
+Alt FireKey mouse 2
+Ability-zenyatta1
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Charge to release more projectiles.
+Damage:
+    48 per orb
+    Max 240 per volley
+Headshot:
+    ✓
+Rate of fire:
+    1 orb per 0.524 seconds (charging)
+    1 shot per 0.144 seconds (firing)
+    0.6 seconds recovery
+Ammo per shot:
+    Up to 5 per volley
+Ammo:
+    25
+Reload time:
+    1.5 seconds animation
+Spread angle:
+    Pinpoint
+Projectile speed:
+    90 meters per second
+Zenyatta projects his destructive energy orbs in a rapid-fire volley after a few seconds spent gathering power.
+Details
+    Damage per second: 
+        74.53 while firing (68.18 overall w/reload)
+    Damage per second: 
+        93.16 while firing (w/ discord) (85.22 overall w/reload)
+
+
+Orb of Harmony
+LSHIFT
+Ability-zenyatta2
+Type
+    Ability
+Effect Type
+    Targeted Targeted
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Launch this orb at an ally to heal them.
+Healing:
+    30 health per second
+Duration:
+    5 seconds (if out of sight)
+Max. range:
+    40 meters
+Projectile speed:
+    90 meters per second
+Zenyatta casts an orb over the shoulder of a targeted ally. So long as Zenyatta maintains line of sight, the orb slowly restores health to his ally. Only one ally can receive the orb's benefit at a time.
+Details
+    Orb of Harmony remains on the target indefinitely, while they stay withing line of sight of Zenyatta.
+    One Orb of Harmony can be active at a time.
+    The orb is removed if the line of sight to the target is obstructed for more than 5 seconds.
+    Barriers do not block line of sight neither for targeting or maintaining the effect.
+    Multiple orbs from different Zenyattas stack additively.
+
+
+Orb of Discord
+E
+Ability-zenyatta3
+Type
+    Ability
+Effect Type
+    Targeted Targeted
+    !Partially blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Launch this orb at an enemy to increase the damage they take.
+Damage:
+    +25% damage received
+Duration:
+    1.5 seconds (if out of sight)
+Max. range:
+    40 meters
+Projectile speed:
+    90 meters per second
+Attaching the orb of discord to an opponent amplifies the amount of damage they receive for as long as Zenyatta maintains line of sight. Only one opponent can suffer the orb's effects at a time.
+Details
+    Orb of Discord remains on the target indefinitely, while they stay withing line of sight of Zenyatta.
+    One Orb of Discord can be active at a time.
+    The orb is removed if the line of sight to the target is obstructed for more than 1.5 seconds.
+    Barriers prevent applying Orb of Discord but do not break line of sight to a target that is already affected by it.
+    When Orb of Discord is removed from a target, they cannot be targeted by it again for 7 seconds.
+    An UI element with a timer will be displayed while aiming toward a target the orb cannot be applied to.
+
+
+Transcendence
+Q
+Ability-zenyatta4
+Cost
+    2310 points
+Type
+    Ultimate Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Become invulnerable, move faster, and heal nearby allies.
+Healing:
+    300 health per second
+Duration:
+    6 seconds
+Max. range:
+    10.5 meters radius
+Move. speed:
+    11 meters per second
+Zenyatta enters a state of heightened existence for a short period of time. While transcendent, Zenyatta cannot use abilities or weapons, but is immune to damage and automatically restores his health and that of nearby allies.
+Details
+    Zenyatta becomes invincible, making him is immune to slows, stuns and knock downs and prevents damage.
+    Additionally, Transcendence removes damage over time, anti-heal and Ability Sombra Hack Hack
+    Zenyatta can still be affected by knockbacks and gravity effects.
+    Ability-zenyatta1 Orb of Destruction's ammunition is restored upon activation.
+    Transcendence does not work behind walls. If allies are in the AoE but behind walls, they will not be healed.

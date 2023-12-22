@@ -1,0 +1,265 @@
+Abilities
+
+Healing Blossom
+Key mouse 1
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Hold to charge a healing burst. Release to heal a targeted ally.
+Healing:Min: 
+    10
+Max: 
+    70 over 0.3 seconds
+Rate of fire:
+    1 second charge
+    0.3 second recovery
+Ammo:
+    16
+Reload time:
+    1.5 seconds
+Max. range:
+    30 meters (targeting)
+Move. speed:
+    -25% penalty, after 1 second
+Projectile speed:
+    60 m/s
+
+Details
+    Healing per second: 
+        53.8 while firing at full charge (50.2 overall w/ reload)
+    The projectiles lock on to the targets, and follow them even if they leave the initial range or use movement abilities after its fired.
+    The projectiles can go through terrain if locked on.
+    Can be targeted through barriers, but the projectile will be blocked by them.
+    The blossom takes 1 second to reach maximum charge.
+    The charge time can be sped up by Kiriko's Kitsune Rush Icon Kitsune Rush.
+    Healing Blossom automatically reloads after 2.5 seconds, when Thorn Volley Icon Thorn Volley is in use.
+
+
+Thorn VolleyKey 
+mouse 2
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Rapidly fire a spread of projectiles.
+Damage:
+    6 (per thorn)
+    12 (per shot)
+Headshot:
+    ✓
+Rate of fire:
+    11 shots/s
+Bullets per shot:
+    2
+Ammo per shot:
+    2
+Ammo:
+    80
+Reload time:
+    1.5 seconds
+Area of effect:
+    0.125 meters (projectile radius)
+Projectile speed:
+    70 meters per second
+
+Details
+    1 of the 2 thorns shot has 25% less spread.
+    Damage per second: 
+        132 while firing (~85 overall w/ reload)
+    Thorn Volley automatically reloads after 2.5 seconds, when Healing Blossom Icon Healing Blossom is in use.
+    Thorn Volley's spread starts at 0 and builds to its maximum spread after 20 shots (~0.9 seconds)
+
+
+Petal Platform
+    LSHIFT
+Cooldown
+    12 seconds
+Type
+    Ability
+Effect Type
+    Arcing projectile Arcing projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Throw a platform that springs upwards when stepped on.
+Health:
+    400
+Cast time:
+    3 seconds
+Duration:
+    ∞ (unused)
+    10 seconds (after being triggered)
+Area of effect:
+    12 meters rising
+Projectile speed:
+    40 meters per second
+
+Details
+    Cooldown starts when the platform is thrown.
+    The projectile bounces off of barriers and other objects and only deploys upon hitting the ground.
+    The platform is a terrain-like object, which has collision and blocks line of sight.
+    Moira's Ability Moira Biotic Grasp Biotic Grasp and Ability Moira Coalescence Coalescence pierce the platform.
+    Grappling claw Grappling Claw and Ability-widowmaker2 Grappling Hook can attach to the platform.
+    The placed platform lasts indefinitely, until activated or destroyed.
+    The platform is activated when an allied or enemy hero (including Ability-ashe4 B.O.B.) steps on it.
+    The activation has 2 meter radius upon impact, reduced to 0.75 meters after initial placement.
+    The activation has a brief delay, which allows it not to be activated when jumping on it or passing over with fast movement abilities, unless the platform was deployed directly under a hero.
+    If the platform's center is below the payload/push bot, terrain or terrain-like objects, it will not rise even if a hero stands on it.
+    The activated platform may also stop without reaching maximum height if there is not enough vertical clearance.
+    Lifeweaver can destroy the platform by using the ability 1 key or by deploying a new one.
+    There is an option in controls to use the interact key to destroy the platform instead of the ability 1 key.
+    Symmetra's Ability-symmetra4 Teleporter has the priority if interact is used in its vicinity.
+    Can affect enemies that are immune to Crowd Control, like Orisa during Ability Orisa Fortify Fortify or Mei during Ability-mei2 Cryo-Freeze.
+    The momentum from the lift allows heroes to jump higher than normal when reaching the top.
+    Abilities and objects can be placed on the platform, and in most cases lifted by the platform.
+    Torbjörn's Ability-torbjorn3 Turret, Symmetra's Ability-symmetra4 Teleporter, Winston's Ability-winston3 Barrier Projector, Illari's Healing pylon icon Healing Pylon and souls that Mercy can Ability-mercy5 Resurrect can be lifted by the platform, regardless of which order they were placed.
+    Tree of Life Icon Tree of Life, Ability-symmetra2 Sentry Turrets, Ability-Junkrat2 Concussion Mine, Ability-Junkrat3 Steel Trap, Ability Sombra Translocator Translocator and Icon-ability.bioticfield Biotic Field can only be lifted if they were placed on the platform afterwards.
+    Sombra's Ability Sombra Translocator Translocator will be destroyed if placed on a platform and it is destroyed. Other entities will fall down.
+    Baptiste-ability3 Immortality Field and Ability-mei4 Blizzard activate upon landing on the platform, but will not rise with it.
+    Minefield Minefield mines can be lifted by the platform before they are primed. Lifted mines remain mid-air or explode due to contact.
+    The platform can be Ability Sombra Hack Hacked, preventing it from activating while on ground for 10 seconds or destroying an already active platform. Hacking Lifeweaver does not disable the platform.
+    Can lift players out of Ability-zarya4 Graviton Surge, provided it can be activated.
+    The platform is unaffected by Ramattra's Ravenous Vortex Icon Ravenous Vortex.
+    Heroes affected by Ability-Junkrat3 Steel Trap can be lifted by the platform, breaking the trap in the process if the trap was placed on the ground first.
+    If Mei's Ability-mei3 Ice Wall, Ramattra's Void Barrier Icon Void Barrier or Baptiste's Baptiste-ability4 Amplification Matrix are placed on the platform and said platform is destroyed, they will remain suspended in midair.
+    Ramattra's Pummel and Reinhardt's fire strike can pierce through the platform.
+
+
+Rejuvenating Dash
+SPACE
+Cooldown
+    5 seconds
+Type
+    Ability
+Effect Type
+    Movement Movement
+    Dash towards your traveling direction and lightly heal yourself.
+Healing:
+    50 (self)
+Max. range:
+    6.15 meters
+
+Details
+    Dash is horizontal only.
+    Ignores existing vertical momentum from falling.
+
+
+Life Grip
+E
+Cooldown
+    19 seconds
+Type
+    Ability
+Effect Type
+    Targeted Targeted (ally)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Pull an ally to your location, protecting them as they travel.
+Healing:
+    50 (ally)
+Max. range:
+    30 meters
+
+Details
+    Only usable on heroes, including Ability-ashe4 B.O.B..
+    The targeted player is pulled to the location, where the ability was activated from, as opposed to Lifeweaver's current location.
+    Prevents the target from taking Crowd Control and damage during the pull, but does not cleanse debuffs applied beforehand.
+    Can pull allies out of Ability-zarya4 Graviton Surge, Abilities-sigma5 Gravitic Flux, Ability-Roadhog3 Chain Hook and Ability-reinhardt3 Charge.
+    Projectiles that hit the target during the pull are blocked, as opposed to passing through, but it does not block line of sight for AoE attacks.
+    Players will momentarily stop taking damage from damage over time effects, such as wounds inflicted by Junker Queen, while being pulled. In Junker Queen's case, it also decreases her self-healing,as it is based on damage dealt.
+    Life Grip can pull allies channeling an ability but it will not interrupt the channel.
+    After 0.75 seconds, the target can use movement abilities, such as Ability Sombra Translocator Translocator or Ability-reinhardt3 Charge, during the pull to get out of it.
+    Life Grip will, however, interrupt any on-going movement abilities when it is activated.
+    Life Grip cannot be used on allies casting one of the following abilities: Ability-dva6 Call Mech, Ability Doomfist Meteor Strike Meteor Strike, Rampage Icon Rampage, Ability-reinhardt5 Earthshatter, Ultimate TerraSurge Terra Surge, DUPLICATE Duplicate (initial cast), Ability-reaper3 Shadow Step, Ability-mei2 Cryo-Freeze and Ability-mercy5 Resurrect. Activating any of these abilities will also interrupt an active pull.
+    Following ultimates do not prevent the target from being pulled, but will interrupt an active pull when activated: Ability-dva4 Self-destruct, Annihilation Icon Annihilation, Abilities-sigma5 Gravitic Flux (initial cast), Ability-winston4 Primal Rage, Ability-genji4 Dragonblade, Ability-reaper4 Death Blossom, Ability Sombra EMP EMP, Ability-Lucio4 Sound Barrier, Ability-mercy6 Valkyrie, Ability Moira Coalescence Coalescence and Ability-zenyatta4 Transcendence.
+    Allies cannot be pulled through terrain or terrain-like objects, like Mei's Ability-mei3 Ice Wall. The pull may attempt to path around the corners these obstacles.
+    The pulled ally can interact with Symmetra's Ability-symmetra4 Teleporter.
+
+
+Tree of Life
+    Q
+Cost
+    2000 points
+Type
+    Ultimate
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Place a tree that instantly heals allies upon sprouting and continues healing periodically as it lives.
+Healing:
+    150 (Instant)
+    75 per pulse
+    1 pulse every 1.75 seconds (8 pulses)
+    50% of overhealing is coverted to overhealth (max. 100)
+Health:
+    1200
+Duration:
+    15 seconds
+Max. range:
+    30 meters (targeting)
+Area of effect:
+    12 meters
+
+Details
+    Once a hero reaches full health, the tree will convert 50% of its healing to overhealth for up to 100 per hero.
+    Can be cancelled early by pressing the ultimate button again.
+    Can heal for a total of 750 HP per hero.
+    The AoE healing is line of sight blocked by terrain, but not by barriers.
+    The tree is a terrain-like object, which has collision and blocks line of sight.
+    Grappling claw Grappling Claw and Ability-widowmaker2 Grappling Hook can attach to the tree.
+    Tree of Life can be placed on top of other objects. If the tree is placed or falls on top of any tangible non-barrier object other than Petal Platform Icon Petal Platform, another Tree of Life or Minefield Minefield, it will be destroyed by the tree. This applies to both allied and enemy objects.
+    If Tree of Life is placed on Petal Platform Icon Petal Platform and the platform is deactivated, the tree falls down.
+    If Tree of Life is placed on Minefield Minefield, the mines will activate, damaging the tree.
+    Following objects are destroyed: Baptiste-ability3 Immortality Field, Ability-Junkrat2 Concussion Mine, Ability-Junkrat3 Steel Trap, Ability-mei3 Ice Wall, Ability Sombra Translocator Translocator, Ability-symmetra2 Sentry Turret, Ability-symmetra4 Teleporter, Ability-torbjorn3 Deploy Turret, Healing pylon icon Healing Pylon and Ability-widowmaker3 Venom Mine.
+    Tree of Life will also prevent pillars from Ability-mei3 Ice Wall from rising if the wall intersects the tree.
+    Tree of Life will push the Mei's Ability-mei4 Blizzard's weather drone to the side.
+    Tree of Life cannot be Ability Sombra Hack Hacked, neither directly or by being hit by Ability Sombra EMP EMP.
+    EMP will still damage Tree of Life.
+    Payload and Push robot will phase through the tree if it was placed in their path.
+    Payload and push robot can move the tree with them if it was placed on them.
+    Tree of Life can heal through Petal Platform.

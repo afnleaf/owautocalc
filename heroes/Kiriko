@@ -1,0 +1,242 @@
+Abilities
+
+Wall Climb (Kiriko)
+SPACE
+Ability-passive
+Type
+    Passive Ability
+Effect Type
+    Movement Movement
+    Jump at walls to climb up them.
+Duration:
+    Up to 1 second
+    Move. speed:8.25 m/s
+
+Details
+
+Landing on ledges allows Kiriko to mantle them, even after wall climb has already been used.
+Can reach up to 10.3m height (11m with jump) due to momentum being kept after wall climb ends.
+
+
+Healing Ofuda
+Key mouse 1
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Channel a burst of healing talismans that can seek targeted allies.
+Healing:
+    13 per talisman, 26 per burst
+Rate of fire:
+    ~0.2 seconds per burst
+    0.9 second ammo recovery
+    Full clip every ~1.7 seconds
+Ammo per shot:
+    2 per burst
+Ammo:
+    10
+Max. range:
+    35 meters (lock on)
+Projectile speed:
+    24 m/s (homing)
+    18 m/s (non-homing)
+
+
+Details
+    Healing per second: 
+        130 (~76.5 overall w/ recovery)
+    Default behavior is a toggle, meaning pressing the button will cause Kiriko to hold down the ability. If you don't want to use all 10 Healing Ofuda, you must press again to toggle off. This setting can be changed in the options.
+    After being thrown, the talismans are either yellow or blue. The color indicates whether they are homing in on a target.
+    Yellow means they are seeking the allied player.
+    Blue means they don't have a target. Blue ofuda can still heal an ally if they walk into the missed ofuda's path.
+    Healing Ofuda are destroyed upon impact with the terrain whether they were homing or not.
+    Healing Ofuda automatically reload when they are not in use or the clip is emptied. All 10 Ofuda are restored, regardless of how many Ofuda were left in the clip.
+    The max range for Healing Ofuda is the same as Swift Step Icon Swift Step, so you can use the indicator for that ability determine if your Healing Ofuda will home in or not.
+    Healing Ofuda will continue to home on targets even when they teleport or become untargetable by enemies, such as a Ability-reaper3 Shadow Stepping Reaper or a Moira using Ability Moira Fade Fade. They are still limited by their max homing range.
+    Despite Ability-genji2 Deflect switching ownership to Genji, yellow ofudas will still try to seek their original target. If Genji's allies stand in their path, they will be healed.
+
+
+KunaiKey 
+mouse 2
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Thrown projectile that deals increased critical damage.
+Damage:
+    45
+Headshot:
+    ✓ (2.5x multiplier)
+Rate of fire:
+    1 shot per 0.5 seconds
+Ammo:
+    15
+Reload time:
+    1 second
+Spread angle:
+    Pinpoint
+Projectile speed:
+    90 m/s
+
+Details
+    Damage per second: 
+        90 while firing (79.4 overall w/reload)
+
+
+Swift Step
+LSHIFT
+Cooldown
+    7 seconds
+Type
+    Ability
+Effect Type
+    Targeted Targeted (ally)
+    Movement Movement
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Teleport directly to an ally.
+Duration:
+    0.25 second invulnerability
+Max. range:
+    35 meters
+
+Details
+    Swift Step can target allies through walls.
+    Swift Step has a brief casting animation that can be interrupted.
+    Objects that are attached to Kiriko are dropped at the cast location when she teleports.
+    This includes Jagged Blade Icon Jagged Blade, Ability-hanzo2 Sonic Arrow, Ability-tracer4 Pulse Bomb and STICKY BOMBS Sticky Bombs.
+    Magnetic Grenade Magnetic Grenade cannot be dropped, as it prevents Swift Step from being used.
+    Kiriko is briefly phased out after using Swift Step, removing most negative status effects and making her immune to damage.
+    This will also cleanse Kiriko of negative effects, similarly to Protection Suzu.
+    Swift Step can be used on airborne allies, such as Pharah. Kiriko will appear at their side and begin to fall immediately.
+    Swift Step cannot be used while Kiriko is under a movement lock effect such as Ability-Junkrat3 Steel Trap, Abilities-sigma5 Gravitic Flux or Ability-zarya4 Graviton Surge
+
+
+Protection Suzu
+E
+Cooldown
+    15 seconds
+Type
+    Ability
+Effect Type
+    Arcing projectile Arcing projectile
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    !Partially blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    !Partially blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    !Partially affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Throw a protective charm to make allies become briefly invulnerable and cleansed of most negative effects.
+Healing:
+    80 (no cleanse)
+    110 (cleanse)
+Duration:
+    0.65 seconds (invulnerability)
+Area of effect:
+    5 meters
+Projectile speed:
+    35 m/s
+
+Details
+    Protection Suzu makes allies phased out, making them immune to most negative effects and damage. They are not targetable by enemies and become non-physical. Abilities, such as Ability-Roadhog3 Chain Hook, will pass through them.
+    Protection Suzu does not work on constructs like Torbjörn's Ability-torbjorn3 Turret.
+    The projectile can be destroyed while in air by Ability-dva3 Defense Matrix, Abilities-sigma3 Kinetic Grasp and Ability JavelinSpin Javelin Spin and reflected by Ability-genji2 Deflect, but the explosion is unaffected.
+    Baptiste-ability4 Amplification Matrix affects all healing dealt, if the projectile passes through it. Area healing alone going through is not amplified.
+    Protection Suzu does not collide with enemies.
+    Protection Suzu, if thrown straight up, takes 7 seconds before it will impact the ground and trigger.
+    Effects known to be prevented and removed by Protection Suzu:
+    Anti-heal, such as Ability-ana3 Biotic Grenade and Rampage Icon Rampage
+    Attached objects, such as Jagged Blade Icon Jagged Blade, Ability-hanzo2 Sonic Arrow, Magnetic Grenade Magnetic Grenade, Ability-tracer4 Pulse Bomb and STICKY BOMBS Sticky Bombs
+    Damage over time effects, such as Ability-ashe2 Dynamite, Ability-widowmaker3 Venom Mine and Junker Queen's wounds
+    Stuns (incl. knockdown, sleep, freeze), such as Ability-reinhardt5 Earthshatter, Ability-ana2 Sleep Dart and Ability-mei4 Blizzard
+    Sombra's Ability Sombra Hack Hack
+    Zenyatta's Ability-zenyatta3 Orb of Discord
+    Effects known to prevented but not removed by Protection Suzu:
+    Knockback's and knockups, such as Ability-Lucio5 Soundwave
+    Junkrat's Ability-Junkrat3 Steel Trap
+    Reinhardt's Ability-reinhardt3 Charge
+    Roadhog's Ability-Roadhog3 Chain Hook
+    Effects known to be completely unaffected by Protection Suzu. Damage portions may still be prevented, but the effect will not end:
+    Sigma's Abilities-sigma5 Gravitic Flux
+    Zarya's Ability-zarya4 Graviton Surge
+    Protection Suzu can affect allies through walls and floors as long as their bodies are sticking through them.
+
+
+Kitsune Rush
+Q
+Cost
+    2300 points
+Type
+    Ultimate Ability
+Effect Type
+    Area of effect Area of effect
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Summon a fox spirit that rushes forward, accelerating the movement, attack speed, and cooldowns of allies that follow its path.
+Rate of fire:
+    +50%
+Reload time:
+    +50% reload speed
+Duration:
+    10.5 seconds
+Max. range:
+    25m
+Move. speed:
+    +30%
+Cooldown:
+    2x cooldown reduction
+
+Details
+    Kitsune Rush's deployment is completely stopped if the fox spirit collides with terrain. Whatever path was laid prior to collision with terrain remains in effect.
+    If the fox hits a surface at a low angle, it will slide along it, maintaining its original direction, instead of stopping.
+    The fox can jump walls roughly up to Kiriko's height, but it will not cover gaps. If Kitsune Rush goes down a ledge, it will deploy along the ground beneath regardless of height.
+    Kitsune Rush's deployment is not impacted by barriers and will pass through them.
+    Terrain-like objects, such as Mei's Ability-mei3 Ice Wall and Ability-mei2 Cryo-Freeze and Lifeweaver's Tree of Life Icon Tree of Life, can block the deployment of Kitsune's Rush, regardless of whether the ability is from an ally or an enemy.
+    Ability-ashe4 B.O.B receives the benefits of Kitsune Rush.
+    Constructs, like Torbjorn's Ability-torbjorn3 Turret and Junkrat's Ability-Junkrat5 Rip-Tire do not receive any benefit.
+    Functions with Beam Beam-type weapons, such as Ability-winston1 Tesla Cannon, by increasing the tick rate.
+    Works on abilities which have a rate of fire, such as Ability-hanzo03 Storm Arrows and Ability-Roadhog4 Whole Hog.
+    Speeds up the charge time of weapons, such as Ability-hanzo1 Storm Bow and Healing Blossom Icon Healing Blossom.
+    Kitsune Rush cannot be cancelled mid-animation by stuns, but getting killed or hacked mid-animation does.
+

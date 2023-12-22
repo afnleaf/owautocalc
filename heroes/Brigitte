@@ -1,0 +1,213 @@
+Abilities
+
+Inspire
+Hero-ability-circle
+Inspire PNG
+Type
+Passive Ability
+Effect Type
+Area of effect Area of effect
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Dealing damage to enemies heals nearby allies.
+Healing:15 per second
+Duration:5 seconds
+Area of effect:20 meter radius
+Cooldown:1 second
+Details
+Co-op
+Triggered by Rocket Flail, Whip Shot, or Shield Bash.
+If triggered, there is a 1 second cooldown before it can be triggered again.
+Does not stack with itself. Instead, the duration resets.
+Does not apply to allies behind enemy barriers or surfaces that block line of sight.
+Applies a heal-over-time effect to allies, meaning they do not have to continuously stay in range.
+Does not trigger from hitting most non-enemy targets such as Symmetra's Sentry Turret. However, it can be triggered by hitting Wrecking Ball's Minefield.
+B.O.B. counts as an enemy and can also be hit to trigger Inspire.
+
+
+Rocket FlailKey mouse 1
+Hero-ability-circle
+Rocket Flail
+Type
+Weapon
+Effect Type
+Melee Melee
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Melee weapon with extended range.
+Damage:35
+Headshot:✕
+Rate of fire:1 swing per 0.6 seconds
+Duration:0.240 seconds (hitbox active)
+Max. range:6 meters
+Brigitte's melee weapon has an extended range, enabling her to strike multiple enemies with a single swing.
+Details
+Damage per second: 58.33
+At 5-6 meters away, Brigitte's flail has a horizontal range of 3 meters on the side she swings toward and 2 meters on the opposite side.
+Brigitte does not have a quick melee. Attempting to use it will swing the Rocket Flail instead.
+Rocket Flail is not reflected when blocked by Ability-genji2 Deflect.
+
+
+Repair PackE
+Hero-ability-circle
+Repair Pack
+6 seconds per charge
+3 charges
+Type
+Ability
+Effect Type
+Targeted Targeted (allies)
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Heals an ally for a short duration.
+Healing:25 + 100 over 2 seconds
+Ammo:3
+Duration:2 seconds
+Max. range:25 meters
+Projectile speed:45 meters per second
+Details
+Healing per second: 50
+If multiple Repair Packs are thrown at the same target, the healing duration is simply increased by 2 seconds.
+Upon activation, there is a 0.25 second recovery period where Brigitte cannot attack or use her abilities other than Rally.
+
+
+Whip ShotLSHIFT
+Hero-ability-circle
+Whip Shot
+4 seconds
+Type
+Ability
+Effect Type
+Projectile Projectile
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Launch your flail forward to knock an enemy away from you.
+Damage:70
+Headshot:✕
+Cast time:0.2 seconds startup
+Max. range:20 meters
+Area of effect:0.5 meters radius
+Move. speed:25 meters per second (booped target)
+Projectile speed:80 meters per second
+Brigitte throws her flail a long distance, dealing damage and knocking an enemy away from her.
+Details
+Whip Shot creates a strong knockback around 5 - 10 meters on the target.
+At full length, it takes 0.3 seconds for the whip to retract.
+Whip Shot is not reflected when blocked by Ability-genji2 Deflect.
+
+
+
+Barrier ShieldKey mouse 2
+Hero-ability-circle
+Barrier Shield
+5 seconds if destroyed
+Type
+Ability
+Hold Key mouse 2 to deploy a frontal energy barrier.
+Healing:Regenerates 85 barrier health per second, after being down for 2 seconds
+Health:Default: 250
+During Rally: 700
+Cast time:instantly
+Move. speed:-30% penalty
+Brigitte deploys a frontal energy barrier to absorb a limited amount of damage.
+Details
+The shield is in the shape of a vertical rectangle curving in at the bottom sides.
+Barrier Shield's orientation can be changed by moving the mouse.
+During Rally Rally, Barrier health is increased from 300 to 750 for the duration of the ultimate and its size is increased.
+
+
+Shield BashKey mouse 1
+Hero-ability-circle
+Shield Bash
+5 seconds
+Type
+Ability
+Effect Type
+Melee Melee
+Movement Movement
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Available when Barrier Shield is deployed. Dash forward to knock back an enemy.
+Damage:50
+Max. range:12 meters
+Area of effect:60° front cone angle radius
+Move. speed:+500% buff
+Details
+Co-op
+If Shield Bash collides with Rocket punch Rocket Punch, Ability-reinhardt3 Charge, a charging Ability-ashe4 B.O.B., or another Shield Bash Shield Bash, both participants get knocked down for 2 seconds.
+During Rally Rally, Shield Bash impacts multiple enemies and stuns all enemies hit for 0.5 seconds.
+
+
+RallyQ
+Hero-ability-circle
+Rally
+2700 points
+Type
+Ultimate Ability
+Effect Type
+Area of effect Area of effect
+Blocked by barriers.
+Ignores barriers.
+Blocked by Defense Matrix/Kinetic Grasp.
+Ignores Defense Matrix/Kinetic Grasp.
+Blocked by Deflect/Javelin Spin.
+Ignores Deflect/Javelin Spin.
+Affected by damage boosts.
+Ignores damage boosts.
+Affected by Amplification Matrix.
+Ignores Amplification Matrix.
+Gain armor, empower Barrier Shield and provide extra health to nearby allies.
+Health:15 overhealth per 0.5 seconds, up to 100 (allies)
+100 armor (self)
+Cast time:0.69 seconds animation
+Duration:Rally: 10 seconds
+Overhealth: 30 seconds
+Area of effect:8.5 meter radius
+Move. speed:+15% buff
+Details
+Co-op
+Overhealth per second: 30 on allies
+During Rally, Brigitte's abilities are enhanced: Barrier Shield Barrier Shield health is increased from 250 to 700 and Shield Bash Shield Bash impacts multiple enemies and stuns all enemies hit for 0.5 seconds.
+When activated, Brigitte instantly gains an additional 100 armor on top of her current health pool for the duration of Rally.
+This armor can be restored by healing, but it does not regenerate by itself.
+Brigitte herself does not gain overhealth over time.

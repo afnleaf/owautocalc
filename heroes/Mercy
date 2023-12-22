@@ -1,0 +1,228 @@
+Abilities
+
+Sympathetic Recovery
+Ability-passive
+Type
+    Passive Ability
+    Healing allies with Caduceus Staff heals you.
+Healing:
+    25% of Healing Done
+
+Details
+    Does not generate ultimate charge.
+    Effect stacks per ally healed during Valkyrie
+    Results in 13.75 hp/s normally and 15 hp/s per target during Ability-mercy6 Valkyrie.
+    Self-healing is affected by healing modifiers both on the target and Mercy herself.
+    This means the healing will not only be increased by amplified healing received effects on Caduceus Staff's target but also gain double benefit if both Mercy and the target she is healing are affected by it. For example, +50% healing received buff on both will result in +125% self-healing received from Sympathetic Recovery.
+
+
+Angelic Descent
+    SPACE
+Ability-mercy4
+Type
+    Passive Ability
+Effect Type
+    Movement Movement
+    Fall very slowly.
+Duration:
+    Until cancelled
+Move. speed:
+    2 m/s (down)
+    5.85 m/s (horizontal)
+    Propelled by her Valkyrie suit, Mercy slows the speed of her descent from great heights.
+Details
+    Can be activated also by holding Crouch key.
+
+
+
+Caduceus Staff
+1Key mouse 1
+Ability-mercy1
+Type
+    Weapon 1
+Effect Type
+    Targeted Targeted (lock-on)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Key mouse 1 Hold to heal an ally. Key mouse 2 Hold to increase an ally's damage inflicted.
+Damage:
+    +25% damage amplified
+Healing:
+    55 per second
+Max. range:
+    15 meters
+    Mercy engages one of two beams that connect to an ally. By maintaining the beams, she can either restore that ally’s health or increase the amount of damage they deal.
+Details
+    Heals an ally by 10.56 every 0.192 seconds.
+    Primary fire creates a healing beam and secondary fire creates a damage amplifying beam that lock on to a nearby ally. They ignore barriers and will linger for 1.3 seconds if the target breaks line of sight or moves out of range. Mercy does not need to look at her target to maintain connection.
+    In order to amplify a type's damage, Mercy must be boosting the hero when the projectile was fired. After that, it will be boosted even if Mercy stops boosting when it lands.
+    Mercy gains ultimate charge equal to the damage that she amplifies, except from self-damage.
+    Mercy's damage boost does not stack with itself.
+
+
+Caduceus Blaster
+    2Key mouse 1
+Ability-mercy2
+Type
+    Weapon 2
+Effect Type
+    Projectile Projectile
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Automatic weapon.
+Damage:
+    20
+Headshot:
+    ✓
+Rate of fire:
+    5 rounds per second
+Ammo:
+    25
+Reload time:
+    1.4 seconds
+Area of effect:
+    0.25 meters radius
+Spread angle:
+    Pinpoint
+Projectile speed:
+    50 meters per second
+    Mercy shoots a round from her sidearm. It's best reserved for emergency personal defense.
+Details
+    Damage per second = 100 while firing (78 overall w/reload)
+    The blaster is automatically reloaded if not equipped for 1.4 seconds.
+    Upon switching weapon, there is 0.51 second recovery period where Mercy cannot use her weapon.
+
+
+Guardian Angel
+    LSHIFT
+Ability-mercy3
+Cooldown
+    1.5 seconds
+Type
+    Ability
+Effect Type
+    Targeted Targeted (ally)
+    Movement Movement
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Fly towards an ally. While in flight, Jump launches you forward, and and Crouch launches you upward.
+Max. range:
+    30 meters
+Move. speed:
+    17 m/s (regular & Jump extension)
+    20.4 m/s (Crouch extension)
+    Mercy flies towards a targeted ally, allowing her to reach them quickly and provide assistance in crucial moments.
+Details
+    Can be used on both living and dead allies.
+    While flying, Guardian Angel be cancelled mid-flight by pressing the hotkey once more or extended through a Jump or Crouch input:
+    Pressing Jump will allow Mercy to propel herself in the direction she is facing.
+    Pressing Jump and back simultaneously will launch Mercy backwards from her target, however this is slower than propelling where you are facing.
+    Pressing Crouch will instantly launch Mercy vertically.
+    Extending Guardian Angel with a Jump or Crouch input sets its duration to 1.5 seconds. The extension cannot be canceled.
+    The cooldown of Guardian Angel starts when its duration ends.
+    A meter shows how much momentum Mercy has during Guardian Angel. The higher the meter the stronger the jumps.
+
+
+Resurrect
+E
+Ability-mercy5
+Cooldown
+    30 seconds
+Type
+    Ability
+Effect Type
+    Targeted Targeted (fallen ally)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Revive a dead teammate.
+Healing:
+    Restores full health to a fallen ally
+Cast time:
+    1.75 seconds
+Max. range:
+    5 meters
+Move. speed:
+    -75% penalty
+    Mercy brings a dead ally back into the fight with full health.
+Details
+    Line of sight does not need to be maintained. However, the cast is interrupted immediately starting the cooldown without resurrecting if Mercy is stunned, knocked down or hacked or if Mercy moves more than 7 meters away from her target while channeling.
+    Cooldown does not reset when respawning.
+    The fallen ally is highlighted on the player's screen.
+    The resurrected players gain 2.25 seconds of invulnerability. Until the end of invulnerability, the resurrected player cannot shoot or use abilities.
+    The target can start moving 1.5 seconds after being resurrected.
+    Life Grip Icon Life Grip cannot be used on Mercy while she is channeling resurrect.
+    Fallen allies souls can be lifted by Lifeweaver's Petal Platform Icon Petal Platform.
+
+
+Valkyrie
+Q
+Ability-mercy6
+Cost
+    1820 points
+Type
+    Ultimate Ability
+Effect Type
+    Movement Movement
+    Gain the ability to fly. Abilities are enhanced.
+Damage:
+    Chain-damage boost (25% per target)
+Healing:
+    60 HP/s per target
+Ammo:
+    ∞ (Blaster)
+Cast time:
+    0.5 seconds animation
+Duration:
+    15 seconds
+Max. range:
+    10 meters (chain healing)
+    +100% range (Guardian Angel, Caduceus Staff)
+Move. speed:
+    9 m/s (omni-directional flight)
+    25 m/s (Guardian Angel)
+Projectile speed:
+    100 m/s (Blaster)
+    Gain the ability to fly. Mercy’s abilities are enhanced.
+Details
+    Mercy passively generates 1% Ult Charge every 3.64 seconds.
+    Ability-mercy1 Caduceus Staff's beam branches out from the beam target to nearby allies within line of sight (of the beam target).
+    Support role passive will be always active for the duration of Valkyrie.
+    Mercy gains vision of enemy health bars if they have taken damage (even if Mercy did not deal the damage herself).
+    Rooted and hindered make Mercy temporarily unable to fly, but do not prevent the activation or immediately end the ability.
+    Holding Jump causes Mercy to rise while holding Crouch causes her to descend.
+    Vertical and horizontal speed are related. You can't have 9.0 meters per second of horizontal and vertical speed in same time.
+    If the vertical speed is <0.25, then the horizontal maximum can be no more than 9.0 and vice versa.
+    If your crosshair is exactly centered and you pinch forward/back and jump/ctrl then your vertical and horizontal speed will be 6.36 meters per second.
+    If your crosshair is exactly centered and you pinch forward/back and jump/ctrl and right/left then your vertical speed = 4.50 and horizontal = 7.8.

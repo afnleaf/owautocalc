@@ -1,0 +1,191 @@
+Abilities
+
+Biotic Grasp
+Key mouse 1
+Ability Moira Biotic Grasp
+Type
+    Weapon (Primary Fire)
+Effect Type
+    Beam Beam
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Hold to heal all allies in front of you. Consumes biotic energy.
+Headshot:
+    ✕
+Healing:
+    70 per second, then lingers to heal 51 over 3 seconds
+Ammo per shot:
+    20 energy per second
+Ammo:
+    156 biotic energy
+Cast time:
+    0.08 seconds for heal
+Duration:
+    3 seconds (remainder)
+Max. range:
+    15 meters
+    Using her left hand, Moira expends biotic energy to heal allies in front of her.
+Details
+    Passes through allies and enemies, but not enemy barriers.
+    Line of sight blocked by terrain and terrain-like objects.
+    Pierces Petal Platform Icon Petal Platform, however.
+    Like Projectile Projectile, there is travel time for the spray to reach its destination.
+    Collision against map geometry and enemy barriers is pinpoint, much like Reinhardts Ability-reinhardt4 Fire Strike.
+    Causes a heal over time that begins upon the last application of the spray healing. This allows Moira to heal without expending resources.
+    Regenerates 3.744 biotic energy per second while inactive.
+    Needs at least 8 biotic energy to activate.
+
+
+Biotic Grasp 
+Alt FireKey mouse 2
+Ability Moira Biotic Grasp Alt fire
+Type
+    Weapon (Secondary Fire)
+Effect Type
+    Beam Beam (no target indicator, soft lock-on)
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Long range beam weapon. Damage dealt heals you and replenishes your biotic energy.
+Damage:
+    50 per second
+Headshot:
+    ✕
+Healing:
+    24 per second (self)
+Ammo:
+    ∞
+Max. range:
+    20 meters
+Her right hand fires a long-range beam weapon that saps enemies’ health, healing Moira and replenishing her biotic energy.
+Details
+    Like Targeted Targeted line of sight to an enemies center of mass is required to initiate and maintain the attack.
+    Self-healing and damage are completely separate. Altering the damage does not affect the self heal.
+    Generates 21.875 biotic energy per second. When combined with the passive regeneration, this becomes 25.715 biotic energy per second (or 16% per second).
+    Spamming melee will help you kill target faster.
+
+
+Biotic Orb
+E
+Ability Moira Biotic Orb
+Cooldown
+    8 seconds
+Type
+    Ability
+Effect Type
+    Projectile Projectile
+    !Partially blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    !Partially affected by damage boosts.
+    Ignores damage boosts.
+    !Partially affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Launch a bouncing sphere that either heals nearby allies or damages nearby enemies.
+Damage:
+    50 per second, up to 200
+Headshot:
+    ✕
+Healing:
+    65 per second, up to 300
+Cast time:
+    instantly + 0.4 s. recovery
+Duration:
+    7 seconds, or until depleted
+Max. range:
+    4 meters (damage orb)
+    5 meters (healing orb)
+Projectile speed:
+    20 meters per second
+    5.5 meters per second while tethered
+    Moira launches a rebounding biotic sphere; she can choose between a regeneration effect that heals the allies it passes through, or a decay effect that deals damage to enemies.
+Details
+    Bounces off walls.
+    The orb itself pierces barriers, but does not target enemies or allies through them.
+    Dealing damage with Biotic Orb restores a small amount of Biotic Energy.
+    Damage Orb does not affect enemy objects.
+    If amplified, only the rate of damage/healing per second is increased, not the total amount.
+
+
+Fade
+LSHIFT
+Ability Moira Fade
+Cooldown
+    6 seconds
+Type
+    Ability
+Effect Type
+    Movement Movement
+    Disappear, move faster, and become invulnerable, but you cannot shoot.
+Duration:
+    0.752 seconds + 0.048 s. recovery
+Max. range:
+    15 meters (max)
+Move. speed:
+    +250% buff
+    Moira's movement speed increases while making her invulnerable to damage.
+Details
+    Moira becomes invisible and phased out, cleansing her of most negative status effects and making her immune to damage.
+    Moira can still pick up Health Packs during Fade.
+    While in Fade, Moira jumps higher than normal.
+    Can be used, while Ability Moira Coalescence Coalescence is active.
+
+
+Coalescence Q
+Ability Moira Coalescence
+Cost:
+    2660 points
+Type
+    Ultimate Ability
+Effect Type
+    Beam Beam
+    Blocked by barriers.
+    Ignores barriers.
+    Blocked by Defense Matrix/Kinetic Grasp.
+    Ignores Defense Matrix/Kinetic Grasp.
+    Blocked by Deflect/Javelin Spin.
+    Ignores Deflect/Javelin Spin.
+    Affected by damage boosts.
+    Ignores damage boosts.
+    Affected by Amplification Matrix.
+    Ignores Amplification Matrix.
+    Fire a beam that heals allies and damages enemies.
+Damage:
+    70 per second
+Headshot:
+    ✕
+Healing:
+    140 per second
+    50 per second (self)
+Cast time:
+    0.5 seconds
+Duration:
+    8 seconds
+Max. range:
+    30 meters
+Move. speed:
+    +40% buff
+Moira channels a long-range beam that heals allies, damages enemies, and bypasses barriers.
+Details
+    Moira passively recharges her biotic energy three times faster while using Coalescence.
+    Moira can use Fade while channeling Coalescence. The beam will be temporarily disabled while in Fade.
+    Line of sight blocked by terrain and terrain-like objects.
+    Pierces Petal Platform Icon Petal Platform, however.
